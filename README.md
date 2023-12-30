@@ -1,5 +1,25 @@
 # Gemini-Google-AI
-This repo contains information about Google Gemini AI and its characteristics
+
+![Gemini_language_model_logo](https://github.com/ParthaPRay/Gemini-Google-AI/assets/1689639/5319a74a-4054-48b5-b26b-db8330f7b457)
+
+Gemini, a family of multimodal large language models, was developed by Google DeepMind as a successor to LaMDA and PaLM 2. This family includes Gemini Ultra, Gemini Pro, and Gemini Nano, and was announced on December 6, 2023, positioning it as a strong contender against OpenAI's GPT-4.
+
+The development of Gemini was announced by Google during the Google I/O keynote on May 10, 2023. Marking a significant advancement from its predecessor, PaLM 2, Gemini was still in early development stages at the time of announcement. Unique in its multimodal capabilities, Gemini was designed to process various types of data including text, images, audio, video, and computer code. This development was a collaborative effort between DeepMind and Google Brain, following their merger into Google DeepMind.
+
+DeepMind CEO Demis Hassabis emphasized Gemini's capabilities in an interview, suggesting it could outperform OpenAI's GPT-4 and ChatGPT. This was part of Google's aggressive strategy to rival OpenAI, building on the success of DeepMind's AlphaGo. The model's development involved significant resources, including the involvement of Google co-founder Sergey Brin and a large team of engineers and legal experts.
+
+Gemini's impending launch prompted OpenAI to accelerate its work on GPT-4, incorporating features similar to Gemini's multimodal capabilities. Google planned to make Gemini available through Google Cloud's Vertex AI service, and the model was set to power a range of Google products, including Bard and the Pixel 8 Pro smartphone.
+
+At the virtual press conference on December 6, 2023, Pichai and Hassabis announced Gemini 1.0, comprising three models tailored for different applications. Gemini Ultra was poised for integration into Bard Advanced and availability to developers in 2024. Gemini Pro and Nano were integrated into Bard and the Pixel 8 Pro, respectively. Gemini was trained and powered by Google's Tensor Processing Units and was named in reference to the DeepMind-Google Brain merger and NASA's Project Gemini.
+
+Gemini Ultra was reported to outperform several leading AI models, including GPT-4, and was the first to exceed human expertise in the MMLU test. Gemini Pro and Nano were set for wider availability to Google Cloud customers and Android developers. DeepMind also explored how Gemini could be combined with robotics.
+
+The Gemini models share a common software architecture, with modifications for efficient training and inference on TPUs. Being multimodal, they can process multiple forms of input within each context window. Gemini's dataset is multimodal and multilingual, encompassing diverse data types.
+
+The anticipation and speculation surrounding Gemini's launch were significant, with predictions of its impact on the AI landscape. Reactions to its unveiling were mixed, with some praising its potential and others comparing it to routine tech upgrades. Concerns were also raised about the demonstration of Gemini, highlighting the need for real-time verification of its capabilities.
+
+
+
 
 
 ![Screenshot 2023-12-30 123910](https://github.com/ParthaPRay/Gemini-Google-AI/assets/1689639/e9498629-c8f4-4895-8a54-9632a923bc17)
@@ -40,7 +60,9 @@ https://ai.google.dev/
 
 # **References**
 
-1. https://www.youtube.com/watch?v=36e74W1_-nw&ab_channel=GoogleCloudEvents
-2. https://blog.google/technology/ai/google-gemini-ai/
-3. https://deepmind.google/technologies/gemini/#introduction
-4. https://blog.google/technology/ai/google-gemini-ai/?utm_source=gdm&utm_medium=referral
+1. https://en.wikipedia.org/wiki/Gemini_(language_model)
+2. https://www.youtube.com/watch?v=36e74W1_-nw&ab_channel=GoogleCloudEvents
+3. https://blog.google/technology/ai/google-gemini-ai/
+4. https://deepmind.google/technologies/gemini/#introduction
+5. https://blog.google/technology/ai/google-gemini-ai/?utm_source=gdm&utm_medium=referral
+6. https://en.wikipedia.org/wiki/Gemini_(language_model)
