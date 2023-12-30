@@ -59,6 +59,11 @@ Benchmark Excellence: In the realm of large language model (LLM) research and de
 https://ai.google.dev/
 
 
+# Quick Start Guide
+
+https://ai.google.dev/tutorials/ai-studio_quickstart
+
+
 # Google Maker Suite Freeform prompt
 
 https://makersuite.google.com/app/prompts/new_freeform
@@ -79,9 +84,6 @@ Enable Vertex AI API, if not enabled. It requires Billing.
 https://console.cloud.google.com/vertex-ai/generative?_ga=2.247808451.536897531.1703956056-1538912965.1703920777
 
 
-# Quick Start Guide
-
-https://ai.google.dev/tutorials/ai-studio_quickstart
 
 
 
