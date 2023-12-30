@@ -58,6 +58,10 @@ Benchmark Excellence: In the realm of large language model (LLM) research and de
 
 https://ai.google.dev/
 
+# Google Maker Suite
+
+https://makersuite.google.com/app/prompts/new_freeform
+
 # **References**
 
 1. https://en.wikipedia.org/wiki/Gemini_(language_model)
