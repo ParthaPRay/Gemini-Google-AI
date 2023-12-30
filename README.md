@@ -54,17 +54,36 @@ Benchmark Excellence: In the realm of large language model (LLM) research and de
 
 
 
-# Build with Gemini AI
+# Google AI Dev
 
 https://ai.google.dev/
 
-# Google Maker Suite
+
+# Google Maker Suite Freeform prompt
 
 https://makersuite.google.com/app/prompts/new_freeform
+
+
+
+# Explore generative AI models in Model Garden
+
+Model Garden is a platform that helps you discover, test, customize, and deploy Google proprietary and select OSS models and assets. To explore the generative AI models and APIs that are available on Vertex AI, go to Model Garden in the Google Cloud console.
+
+https://console.cloud.google.com/vertex-ai/model-garden?_ga=2.246762944.536897531.1703956056-1538912965.1703920777
+
+
+# Vertex AI Studio
+
+Enable Vertex AI API, if not enabled. It requires Billing.
+
+https://console.cloud.google.com/vertex-ai/generative?_ga=2.247808451.536897531.1703956056-1538912965.1703920777
+
 
 # Quick Start Guide
 
 https://ai.google.dev/tutorials/ai-studio_quickstart
+
+
 
 # ipynub Python SDK for Gemini and Overview
 
@@ -73,6 +92,9 @@ https://github.com/GoogleCloudPlatform/generative-ai/tree/main
 https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview
 
 https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_python.ipynb
+
+
+
 
 # **References**
 
