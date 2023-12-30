@@ -4,6 +4,9 @@ This repo contains information about Google Gemini AI and its characteristics
 
 ![Screenshot 2023-12-30 123910](https://github.com/ParthaPRay/Gemini-Google-AI/assets/1689639/e9498629-c8f4-4895-8a54-9632a923bc17)
 
+
+
+
 ![Screenshot 2023-12-30 124134](https://github.com/ParthaPRay/Gemini-Google-AI/assets/1689639/1fd51f85-4cc6-4a91-8766-6dbbe8ca3deb)
 
 
@@ -29,6 +32,11 @@ Benchmark Excellence: In the realm of large language model (LLM) research and de
 
 ![gemini_final_multimodal_table_bigger_font_amendment_lines](https://github.com/ParthaPRay/Gemini-Google-AI/assets/1689639/d2d4d425-14a3-4909-99a4-033df8421df1)
 
+
+
+# Build with Gemini AI
+
+https://ai.google.dev/
 
 # **References**
 
