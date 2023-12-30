@@ -62,6 +62,18 @@ https://ai.google.dev/
 
 https://makersuite.google.com/app/prompts/new_freeform
 
+# Quick Start Guide
+
+https://ai.google.dev/tutorials/ai-studio_quickstart
+
+# ipynub Python SDK for Gemini and Overview
+
+https://github.com/GoogleCloudPlatform/generative-ai/tree/main
+
+https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview
+
+https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_python.ipynb
+
 # **References**
 
 1. https://en.wikipedia.org/wiki/Gemini_(language_model)
