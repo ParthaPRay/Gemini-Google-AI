@@ -15,9 +15,52 @@ Prompts are sent to a model for response generation. Vertex AI has a variety of 
 
 1. Gemini API: Advanced reasoning, multiturn chat, code generation, and multimodal prompts.
 2. PaLM API: Natural language tasks, text embeddings, and multiturn chat.
-3. Codey APIs: Code generation, code completion, and code chat.
-4. Imagen API: Image generation, image editing, and visual captioning.
-5. MedLM: Medical question answering and summarization. (Private GA)
+  Language support
+Vertex AI PaLM API is Generally Available (GA) for the following languages. Vertex AI Gemini API also supports these languages.
+
+Arabic (ar)
+Bengali (bn)
+Bulgarian (bg)
+Chinese simplified and traditional (zh)
+Croatian (hr)
+Czech (cs)
+Danish (da)
+Dutch (nl)
+English (en)
+Estonian (et)
+Finnish (fi)
+French (fr)
+German (de)
+Greek (el)
+Hebrew (iw)
+Hindi (hi)
+Hungarian (hu)
+Indonesian (id)
+Italian (it)
+Japanese (ja)
+Korean (ko)
+Latvian (lv)
+Lithuanian (lt)
+Norwegian (no)
+Polish (pl)
+Portuguese (pt)
+Romanian (ro)
+Russian (ru)
+Serbian (sr)
+Slovak (sk)
+Slovenian (sl)
+Spanish (es)
+Swahili (sw)
+Swedish (sv)
+Thai (th)
+Turkish (tr)
+Ukrainian (uk)
+Vietnamese (vi)
+
+   
+4. Codey APIs: Code generation, code completion, and code chat.
+5. Imagen API: Image generation, image editing, and visual captioning.
+6. MedLM: Medical question answering and summarization. (Private GA)
 
 The models differ in size, modality, and cost. You can explore Google's proprietary models and OSS models in Model Garden.
 
