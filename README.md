@@ -1,3 +1,49 @@
+
+# Overview of Generative AI on Vertex AI
+
+https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview
+
+![generative-ai-workflow](https://github.com/ParthaPRay/Gemini-Google-AI/assets/1689639/c82ded2b-6d8b-43e1-a769-54f3ecad9be0)
+
+* **Prompt**
+
+The generative AI workflow typically starts with prompting. A prompt is a natural language request sent to a language model to elicit a response back. Writing a prompt to get the desired response from the model is a practice called prompt design. While prompt design is a process of trial and error, there are prompt design principles and strategies that you can use to nudge the model to behave in the desired way.
+
+**Foundation models**
+
+Prompts are sent to a model for response generation. Vertex AI has a variety of generative AI foundation models (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/models) that are accessible through an API, including the following:
+
+1. Gemini API: Advanced reasoning, multiturn chat, code generation, and multimodal prompts.
+2. PaLM API: Natural language tasks, text embeddings, and multiturn chat.
+3. Codey APIs: Code generation, code completion, and code chat.
+4. Imagen API: Image generation, image editing, and visual captioning.
+5. MedLM: Medical question answering and summarization. (Private GA)
+
+The models differ in size, modality, and cost. You can explore Google's proprietary models and OSS models in Model Garden.
+
+* Model customization
+
+You can customize the default behavior of Google's foundation models so that they consistently generate the desired results without using complex prompts. This customization process is called model tuning. Model tuning helps you reduce the cost and latency of your requests by allowing you to simplify your prompts.
+
+Vertex AI also offers model evaluation tools to help you evaluate the performance of your tuned model. After your tuned model is production-ready, you can deploy it to an endpoint and monitor performance like in standard MLOps workflows.
+
+* Vertex AI Grounding service
+
+If you need model responses to be grounded on a source of truth, such as your own data corpus, you can use grounding in Vertex AI. Grounding helps reduce model hallucinations, especially on unknown topics, and also gives the model access to new information.
+
+* Citation check
+
+After the response is generated, Vertex AI checks whether citations need to be included with the response. If a significant amount of the text in the response comes from a particular source, that source is added to the citation metadata in the response.
+
+* Responsible AI and safety
+
+The last layer of checks that the prompt and response go through before being returned is the safety filters. Vertex AI checks both the prompt and response for how much the prompt or response belongs to a safety category. If the threshold is exceed for one or more categories, the response is blocked and Vertex AI returns a fallback response.
+
+* Response
+
+If the prompt and response passes the safety filter checks, the response is returned. Typically, the response is returned all at once. However, you can also receive responses progressively as it generates by enabling streaming.
+
+
 # Gemini-Google-AI
 
 ![Gemini_language_model_logo](https://github.com/ParthaPRay/Gemini-Google-AI/assets/1689639/5319a74a-4054-48b5-b26b-db8330f7b457)
