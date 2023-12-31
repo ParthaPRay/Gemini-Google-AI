@@ -77,9 +77,12 @@ Model Garden is a platform that helps you discover, test, customize, and deploy 
 https://console.cloud.google.com/vertex-ai/model-garden?_ga=2.246762944.536897531.1703956056-1538912965.1703920777
 
 
-# Vertex AI Studio
+# Vertex AI Studio Platform
 
-Enable Vertex AI API, if not enabled. It requires Billing.
+Enable Vertex AI API, if not enabled. It requires Billing.+
+
+![Screenshot 2023-12-31 204840](https://github.com/ParthaPRay/Gemini-Google-AI/assets/1689639/34cb6dd3-880a-40d9-9311-b7cfe04cc0a5)
+
 
 https://console.cloud.google.com/vertex-ai/generative?_ga=2.247808451.536897531.1703956056-1538912965.1703920777
 
@@ -98,6 +101,13 @@ https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview
 https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_python.ipynb
 
 
+# ModelGarden
+
+https://cloud.google.com/vertex-ai/docs/start/explore-models
+
+Various types of models to pick for business solution as on December 31, 2023.
+
+![Screenshot 2023-12-31 205659](https://github.com/ParthaPRay/Gemini-Google-AI/assets/1689639/1595b753-3754-48e3-a510-fe302b323f20)
 
 
 # **References**
