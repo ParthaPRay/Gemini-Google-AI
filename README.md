@@ -19,42 +19,79 @@ Prompts are sent to a model for response generation. Vertex AI has a variety of 
 Vertex AI PaLM API is Generally Available (GA) for the following languages. Vertex AI Gemini API also supports these languages.
 
 Arabic (ar)
+
 Bengali (bn)
+
 Bulgarian (bg)
+
 Chinese simplified and traditional (zh)
+
 Croatian (hr)
+
 Czech (cs)
+
 Danish (da)
+
 Dutch (nl)
+
 English (en)
+
 Estonian (et)
+
 Finnish (fi)
+
 French (fr)
+
 German (de)
+
 Greek (el)
+
 Hebrew (iw)
+
 Hindi (hi)
+
 Hungarian (hu)
+
 Indonesian (id)
+
 Italian (it)
+
 Japanese (ja)
+
 Korean (ko)
+
 Latvian (lv)
+
 Lithuanian (lt)
+
 Norwegian (no)
+
 Polish (pl)
+
 Portuguese (pt)
+
 Romanian (ro)
+
 Russian (ru)
+
 Serbian (sr)
+
 Slovak (sk)
+
 Slovenian (sl)
+
 Spanish (es)
+
 Swahili (sw)
+
 Swedish (sv)
+
 Thai (th)
+
 Turkish (tr)
+
 Ukrainian (uk)
+
 Vietnamese (vi)
 
    
