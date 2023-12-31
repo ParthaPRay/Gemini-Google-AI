@@ -9,7 +9,7 @@ https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview
 
 The generative AI workflow typically starts with prompting. A prompt is a natural language request sent to a language model to elicit a response back. Writing a prompt to get the desired response from the model is a practice called prompt design. While prompt design is a process of trial and error, there are prompt design principles and strategies that you can use to nudge the model to behave in the desired way.
 
-**Foundation models**
+* **Foundation models**
 
 Prompts are sent to a model for response generation. Vertex AI has a variety of generative AI foundation models (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/models) that are accessible through an API, including the following:
 
