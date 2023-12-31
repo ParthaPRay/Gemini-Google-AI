@@ -107,7 +107,8 @@ https://cloud.google.com/vertex-ai/docs/start/explore-models
 
 Various types of models to pick for business solution as on December 31, 2023.
 
-![Screenshot 2023-12-31 205659](https://github.com/ParthaPRay/Gemini-Google-AI/assets/1689639/1595b753-3754-48e3-a510-fe302b323f20)
+![image](https://github.com/ParthaPRay/Gemini-Google-AI/assets/1689639/1881ac6c-4d99-47af-9f3a-9a7be102940c)
+
 
 
 # **References**
