@@ -84,7 +84,9 @@ Enable Vertex AI API, if not enabled. It requires Billing.
 https://console.cloud.google.com/vertex-ai/generative?_ga=2.247808451.536897531.1703956056-1538912965.1703920777
 
 
+# Gemini API Learning
 
+https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini
 
 
 # ipynub Python SDK for Gemini and Overview
